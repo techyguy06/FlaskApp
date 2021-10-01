@@ -1,5 +1,4 @@
 # Third party modules
-from logging import log
 import pytest
 
 # First party modules
